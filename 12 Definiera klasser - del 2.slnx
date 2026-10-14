@@ -7,4 +7,5 @@
   <Project Path="06 Oföränderlig Record med with-uttryck/06 Oföränderlig Record med with-uttryck.csproj" />
   <Project Path="07 Generisk låda (Lada(T))/07 Generisk låda (Lada(T)).csproj" />
   <Project Path="08 Generisk par-behållare (Par(T, U))/08 Generisk par-behållare (Par(T, U)).csproj" />
+  <Project Path="09 Enkel Indexerare för en Veckolista/09 Enkel Indexerare för en Veckolista.csproj" />
 </Solution>
