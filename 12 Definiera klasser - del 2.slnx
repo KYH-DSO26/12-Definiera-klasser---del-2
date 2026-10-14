@@ -10,4 +10,8 @@
   <Project Path="09 Enkel Indexerare för en Veckolista/09 Enkel Indexerare för en Veckolista.csproj" />
   <Project Path="10 Indexerare med strängnyckel (Ordbok)/10 Indexerare med strängnyckel (Ordbok).csproj" />
   <Project Path="11 Omdefiniering av operator för Euro (Plusoperator)/11 Omdefiniering av operator för Euro (Plusoperator).csproj" />
+  <Project Path="12 Jämförelseoperatorer för Tidsintervall/12 Jämförelseoperatorer för Tidsintervall.csproj" />
+  <Project Path="13 Generisk Repository-simulering (DataLager(T))/13 Generisk Repository-simulering (DataLager(T)).csproj" />
+  <Project Path="14 Utmaning – Operator för valutaomvandling/14 Utmaning – Operator för valutaomvandling.csproj" />
+  <Project Path="15 Avancerad Record-jämförelse/15 Avancerad Record-jämförelse.csproj" />
 </Solution>
