@@ -4,4 +4,7 @@
   <Project Path="03 Struktur för en 2D-punkt (Punkt2D)/03 Struktur för en 2D-punkt (Punkt2D).csproj" />
   <Project Path="04 Använda Namespaces/04 Använda Namespaces.csproj" />
   <Project Path="05 Enkel Record för en Anvandare/05 Enkel Record för en Anvandare.csproj" />
+  <Project Path="06 Oföränderlig Record med with-uttryck/06 Oföränderlig Record med with-uttryck.csproj" />
+  <Project Path="07 Generisk låda (Lada(T))/07 Generisk låda (Lada(T)).csproj" />
+  <Project Path="08 Generisk par-behållare (Par(T, U))/08 Generisk par-behållare (Par(T, U)).csproj" />
 </Solution>
