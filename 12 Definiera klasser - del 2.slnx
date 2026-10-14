@@ -2,4 +2,6 @@
   <Project Path="01 Statisk verktygsklass (MatematikVerktyg)/01 Statisk verktygsklass (MatematikVerktyg).csproj" />
   <Project Path="02 Statisk räknare (InstansRaknare)/02 Statisk räknare (InstansRaknare).csproj" />
   <Project Path="03 Struktur för en 2D-punkt (Punkt2D)/03 Struktur för en 2D-punkt (Punkt2D).csproj" />
+  <Project Path="04 Använda Namespaces/04 Använda Namespaces.csproj" />
+  <Project Path="05 Enkel Record för en Anvandare/05 Enkel Record för en Anvandare.csproj" />
 </Solution>
