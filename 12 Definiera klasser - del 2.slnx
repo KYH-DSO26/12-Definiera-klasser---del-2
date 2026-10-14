@@ -8,4 +8,6 @@
   <Project Path="07 Generisk låda (Lada(T))/07 Generisk låda (Lada(T)).csproj" />
   <Project Path="08 Generisk par-behållare (Par(T, U))/08 Generisk par-behållare (Par(T, U)).csproj" />
   <Project Path="09 Enkel Indexerare för en Veckolista/09 Enkel Indexerare för en Veckolista.csproj" />
+  <Project Path="10 Indexerare med strängnyckel (Ordbok)/10 Indexerare med strängnyckel (Ordbok).csproj" />
+  <Project Path="11 Omdefiniering av operator för Euro (Plusoperator)/11 Omdefiniering av operator för Euro (Plusoperator).csproj" />
 </Solution>
